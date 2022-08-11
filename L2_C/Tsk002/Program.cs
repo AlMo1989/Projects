@@ -81,7 +81,7 @@ if (yesNo == "да"){
 AttemptCounter(1000);
 }
 else Console.Write("Загаданное число было: " + randomNumber); */
-string result = null;
+/* string result = null;
 result = result ?? 'txt';
 Console.WriteLine(result);
-Console.ReadKey();
+Console.ReadKey(); */
